@@ -1,0 +1,13 @@
+Class 5 Attendance:
+
+Name                   Mon          Tue         Wed        Thurs         Fri        Sat       Sun
+
+Stud[5][1]              1            1           1          1             1          0         0
+
+Stud[5][2]              1            0           0          0             1          1         0
+
+Stud[5][3]              0            1           1          1             0          0         1
+
+Stud[5][4]              1            1           1          1             1          1         1
+
+Stud[5][5]              1            0           0          0             0          0         0

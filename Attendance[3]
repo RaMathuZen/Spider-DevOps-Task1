@@ -1,0 +1,13 @@
+Class 3 Attendance:
+
+Name                   Mon          Tue         Wed        Thurs         Fri        Sat       Sun
+
+Stud[3][1]              1            1           1          1             1          0         0
+
+Stud[3][2]              1            0           0          0             1          1         0
+
+Stud[3][3]              0            1           1          1             0          0         1
+
+Stud[3][4]              1            1           1          1             1          1         1
+
+Stud[3][5]              1            0           0          0             0          0         0

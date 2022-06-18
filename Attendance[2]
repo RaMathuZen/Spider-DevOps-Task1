@@ -1,0 +1,13 @@
+Class 2 Attendance:
+
+Name                   Mon          Tue         Wed        Thurs         Fri        Sat       Sun
+
+Stud[2][1]              1            1           1          1             1          0         0
+
+Stud[2][2]              1            0           0          0             1          1         0
+
+Stud[2][3]              0            1           1          1             0          0         1
+
+Stud[2][4]              1            1           1          1             1          1         1
+
+Stud[2][5]              1            0           0          0             0          0         0
